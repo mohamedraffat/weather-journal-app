@@ -11,17 +11,17 @@ To run the application you must setup `Node Js` packeges from `https://nodejs.or
 3-open the localhost in your brawser `http://localhost:3000/`
 I used in this project 
 *`Node Js` 
-    `Express`Framework
-    `Cors` it`s middelware
-    `body-parser`
-    `get`&`Post` HTTP methods 
+`Express`Framework
+`Cors` it`s middelware
+`body-parser`
+`get`&`Post` HTTP methods 
 *`JavaScript` Methods 
-    `document.getElementById`
-    `addEventListener`
-    `Async` asynchronous
-    `await`
-    `fetch`
-    `try`& `catch`
+`document.getElementById`
+`addEventListener`
+`Async` asynchronous
+`await`
+`fetch`
+`try`& `catch`
 * `API` to get the current weather `https://openweathermap.org/current`
 *`HTML`
 *`CSS`
